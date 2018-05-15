@@ -2,4 +2,4 @@
 My first python program
 '''
 
-print('Hello, world!')
+print('Hello, Yukoh!')
